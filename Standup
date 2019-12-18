@@ -1,0 +1,209 @@
+*10-15-2019*
+*Yesterday*: created merge request to new feature branch. changes include REV-3962 REV-3968 REV-3890
+*Today*: fixing any merge changes required. picking up new tasks on the board
+*Blocker*: None.
+
+*10-16-2019*
+*Yesterday*: pushed my merge request through REV-3962 REV-3968 REV-3890
+*Today*: trying to figure out how we will be implement gallery search logic REV-3964
+*Blocker*: None.
+
+*10-17-2019*
+*Yesterday*:  trying to figure out how we will be implement gallery search logic REV-3964
+*Today*: creating video link component for preview template page
+*Blocker*: None.
+
+*10-18-2019*
+*Yesterday*: creating video link component for preview template page REV-3963
+*Today*: refactoring some walkthrough code to be more generic so I can reuse popup modal for videos REV-3963
+*Blocker*: None.
+
+*10-21-2019*
+*Yesterday*: creating video link component for preview template page REV-3963
+*Today*: Explore More Templates link misaligned in Edge/FF/Safari REV-3978
+*Blocker*: None.
+
+*10-22-2019*
+*Yesterday*: Explore More Templates link misaligned in Edge/FF/Safari REV-3978
+*Today*: Merging changes for QA on 'REV-3978` and REV-3978 Then looking into Try Template Logic REV-3978
+*Blocker*: None.
+
+*10-23-2019*
+*Yesterday*: Merging changes for QA on 'REV-3978` and REV-3978 Then looking into Try Template Logic REV-3978
+*Today*: getting people to approve try template logic, added a few small fixes too.
+*Blocker*: None.
+
+*10-24-2019*
+*Yesterday*: merging into try template branch and pushing to feature.
+*Today*: tackling some ui things for personalized Onboarding
+*Blocker*: None.
+
+*10-25-2019*
+*Yesterday*: created MR for REV-4001 REV-4007 REV-3984 REV-3978
+*Today*: getting people to approve MR, picking up more tasks on the board -not sure what yet though
+*Blocker*: None.
+
+*10-28-2019*
+*Yesterday*: created MR for REV-4001 REV-4007 REV-3984 REV-3978 getting people to approve MR, picking up more tasks on the board -not sure what yet though
+*Today*: finding people for my MR still (one more) && REV-4011 REV-4015
+*Blocker*: None.
+
+*10-29-2019*
+*Yesterday*:  finding people for my MR still (one more) && REV-4011 REV-4015
+*Today*: Finishing up some UI fixes, getting ready to submit; finding people to approve MR for refactoring
+*Blocker*: None.
+
+*10-30-2019*
+*Yesterday*: finding people for my MR still (one more) && REV-4011 REV-4015
+*Today*: touching up ui and Creating MR for fixes REV-4015.
+*Blocker*: None.
+
+*10-31-2019*
+*Yesterday*: merged branch to feature. worked on UI fixes REV-4015
+*Today*: More ui fixes, hopefully get it in a MR today.
+*Blocker*: None.
+
+*11-1-2019*
+*Yesterday*:  More ui fixes, hopefully get it in a MR today
+*Today*: getting ready for Demo and getting people to work on my MR.
+*Blocker*: None.
+
+*11-4-2019*
+*Yesterday*:  More ui fixes, hopefully get it in a MR today
+*Today*: getting ready for Demo and getting people to work on my MR.
+*Blocker*: None.
+
+*11-5-2019*
+*Yesterday*:  changing requested changes from janel / pushing MR through / answering MR questions
+*Today*: reviewing MR's to get PO ready for release 88.
+*Blocker*: None.
+
+*11-6-2019*
+*Yesterday*: Hot Fixes for ui from Janel and Andrea - Reviewed MR's
+*Today*: Helping out PO where I can, MR's and getting items across the line .
+*Blocker*: None.
+
+*11-7-2019*
+*Yesterday*: Helping out PO where I can, MR's and getting items across the line 
+*Today*: Merging into develop and getting ready for next sprint.
+*Blocker*: None.
+
+*11-8-2019*
+*Yesterday*: Merging into develop and getting ready for next sprint
+*Today*: Adding localization logic to PO.
+*Blocker*: None.
+
+*11-11-2019*
+*Yesterday*: Adding localization logic to PO
+*Today*: Switching to Ubuntu.
+*Blocker*: None.
+
+*11-12-2019*
+*Yesterday*: Switching to Ubuntu
+*Today*: MVP changes for Onboarding given the extra time `REV-4041`, `REV-4040`, `REV-4042`.
+*Blocker*: None.
+
+*11-13-2019*
+*Yesterday*: MVP changes for Onboarding given the extra time `REV-4041`, `REV-4040`, `REV-4042`
+*Today*: Working on PO localization `REV-4050`.
+*Blocker*: None.
+
+*11-14-2019*
+*Yesterday*: Working on PO localization `REV-4050`
+*Today*: Finishing up on PO (waiting for opscon prod access for tile id's) `REV-4050`
+*Blocker*: Waiting for prod opscon access.
+
+*11-15-2019*
+*Yesterday*: Finishing up on PO (waiting for opscon prod access for tile id's) `REV-4050`
+*Today*: Trying to figure out a good way to test to make sure the gallery tile map is working correctly.
+*Blocker*: None.
+
+*11-18-2019*
+*Yesterday*: Trying to figure out a good way to test to make sure the gallery tile map is working correctly.
+*Today*: Trying to get ahold of Brett to talk about galleryTiles in develop, QA'ing localization changes, pulling in new stuff
+*Blocker*: None.
+
+*11-19-2019*
+*Yesterday*: Trying to get ahold of Brett to talk about galleryTiles in develop, QA'ing localization changes, pulling in new stuff, hotfixing ui for release/89-iron
+*Today*: creating opscon tool for populating gallery tiles with tiles from prod.
+*Blocker*: None.
+
+*11-20-2019*
+*Yesterday*: creating opscon tool for populating gallery tiles with tiles from prod.
+*Today*: More opscon tool creation; figuring out how to pull information from prod.
+*Blocker*: None.
+
+*11-21-2019*
+*Yesterday*: More opscon tool creation; figuring out how to pull information from prod.
+*Today*: Figuring out how to parse the request calls made to pord. Then figuring out to un-obsfucate (spelling?) the id's.
+*Blocker*: None.
+
+*11-22-2019*
+*Yesterday*: Figuring out how to parse the request calls made to pord. Then figuring out to un-obsfucate (spelling?) the id's.
+*Today*: Change of pace, (because of a couple red flags) will be changing to python script to generate SQL querys
+*Blocker*: None.
+
+*11-25-2019*
+*Yesterday*: Change of pace, (because of a couple red flags) will be changing to python script to generate SQL querys
+*Today*: Working on decoding the ids for gallery tiles
+*Blocker*: None.
+
+*11-26-2019*
+*Yesterday*: Working on decoding the ids for gallery tiles
+*Today*: Moving un-obfuscated ids back to json - letting python to do a search replace on them.
+*Blocker*: None.
+
+*11-27-2019*
+*Yesterday*: Moving un-obfuscated ids back to json - letting python to do a search replace on them.
+*Today*: Writing build time email for Nipun - pulling in the UI for PO localization
+*Blocker*: None.
+
+*12-2-2019*
+*Yesterday*: Writing build time email for Nipun - pulling in the UI for PO localization
+*Today*: Adding logic for last goal item image to change
+*Blocker*: None.
+
+*12-3-2019*
+*Yesterday*: Adding logic for last goal item image to change
+*Today*: `REV-4028` localization personalized onboarding visual tweaks | last goal item logic
+*Blocker*: None.
+
+*12-4-2019*
+*Yesterday*: `REV-4028` localization personalized onboarding visual tweaks | last goal item logic
+*Today*: putting sql scripts for gallery tiles on github, getting them into the wiki - helping where I can to finish localized PO
+*Blocker*: None.
+
+*12-5-2019*
+*Yesterday*: putting sql scripts for gallery tiles on github, getting them into the wiki - helping where I can to finish localized PO
+*Today*: finishing up Infra change doc, `REV-4054` working with @Mark Benitez to polish gallery tile script
+*Blocker*: None.
+
+*12-6-2019*
+*Yesterday*: finishing up Infra change doc, `REV-4054` working with @Mark Benitez to polish gallery tile script
+*Today*: merging, release notes, patching up bugs for release
+*Blocker*: None.
+
+*12-9-2019*
+*Yesterday*: merging, release notes, patching up bugs for release
+*Today*: Shifting out of `grow-1130` lozalized personalized onboarding and onto teambuilder, figuring out what I can do for that.
+*Blocker*: None.
+
+*12-10-2019*
+*Yesterday*: Shifting out of `grow-1130` lozalized personalized onboarding and onto teambuilder, figuring out what I can do for that.
+*Today*: Trying to cherry-pick changes from Jim's branch so TB can test without being dependant on that branch (WFH)
+*Blocker*: None.
+
+*12-11-2019*
+*Yesterday*: Trying to cherry-pick changes from Jim's branch so TB can test without being dependant on that branch (WFH)
+*Today*: Look into the bug that surfaced yesterday and then move back to figuring these library imports for testing again.
+*Blocker*: None.
+
+*12-16-2019*
+*Yesterday*: Vacation
+*Today*: Doing anything required for Localized Personalized Onboarding to get release. Feeling a bit under the weather and will be WFH - don't want to spread the sore throat around :(
+*Blocker*: None.
+
+*12-17-2019*
+*Yesterday*: Doing anything required for Localized Personalized Onboarding to get release. Feeling a bit under the weather and will be WFH - don't want to spread the sore throat around :(
+*Today*: Finishing up release notes, jumping on other tasks. WFH
+*Blocker*: None.

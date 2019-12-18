@@ -11,7 +11,8 @@ class StandupEvent():
         self._id = __id
 
         if date is None:
-            self._date = dt.now()
+            self._date = dt.today()
+            print(self._date)
         else:
             self._date = date
 

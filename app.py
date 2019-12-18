@@ -13,7 +13,7 @@ stnd = Standup()
 add_standup: str = "+"
 prefix = add_standup
 
-while (False):
+while (True):
     
     ans = input(prefix)
 
@@ -30,10 +30,8 @@ while (False):
             blocker=blocker,
         )
 
-        db.add_standup_event(s)
+        # db.add_standup_event(s)
 
         stnd.copy_status_to_clipboard(s,s)
         print("Copied to your clip-board")
         continue
-
-db.print_tables()

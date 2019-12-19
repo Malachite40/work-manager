@@ -1,6 +1,9 @@
 from src.Database.DatabaseHandler import DatabaseHandler
 from src.Datastructures.StandupEvent import StandupEvent
 from src.Standup.Standup import Standup
+from src.Standup.GuiPrompt import GuiPrompt
+
+gui = GuiPrompt()
 db = DatabaseHandler()
 stnd = Standup()
 
@@ -9,12 +12,20 @@ stnd = Standup()
 #     blocker="None",
 # )
 
-
+add_task: str = "-"
 add_standup: str = "+"
 prefix = add_standup
 
+options = {
+    "Add Task: ": add_task,
+    "Add Standup: ": add_standup,
+}
+
 while (True):
     
+    gui.clear()
+    gui.print_options(options)
+
     ans = input(prefix)
 
     if ans == add_standup:

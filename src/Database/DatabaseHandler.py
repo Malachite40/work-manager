@@ -32,6 +32,7 @@ _create_standup_table_string: str = (
 _query_standup_table_string: str = (
     "SELECT * FROM " + _standup_table_name
 )
+_query_get_standups: str = "SELECT * FROM {} ORDER BY {} DESC".format(_standup_table_name,_standup_date)
 # end region
 
 class DatabaseHandler():
@@ -63,7 +64,23 @@ class DatabaseHandler():
         self._connection.commit()
         return
 
-    
+    def get_standups(self, count=1) -> [StandupEvent]:
+        self._cursor.execute(_query_get_standups)
+        rows = self._cursor.fetchall()
+        
+        standups: [StandupEvent] = []
+        for row in rows:
+            s = StandupEvent(
+                standup_id=row[0],
+                date=row[1],
+                description=row[2],
+                blocker=row[3],
+            )
+            standups.append(s)
+            if len(standups) == count:
+                break
+        return standups
+
     def print_tables(self) -> None:
 
         print('---{0}---'.format(_query_standup_table_string)) 

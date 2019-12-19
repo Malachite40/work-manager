@@ -1,0 +1,205 @@
+ID: 1
+DATE: 2019-12-16 00:00:00
+DESCRIPTION: Vacation
+BLOCKER: None.
+
+ID: 2
+DATE: 2019-12-11 00:00:00
+DESCRIPTION: Trying to cherry-pick changes from Jim's branch so TB can test without being dependant on that branch (WFH)
+BLOCKER: None.
+
+ID: 3
+DATE: 2019-12-10 00:00:00
+DESCRIPTION: Shifting out of `grow-1130` lozalized personalized onboarding and onto teambuilder, figuring out what I can do for that.
+BLOCKER: None.
+
+ID: 4
+DATE: 2019-12-09 00:00:00
+DESCRIPTION: merging, release notes, patching up bugs for release
+BLOCKER: None.
+
+ID: 5
+DATE: 2019-12-06 00:00:00
+DESCRIPTION: finishing up Infra change doc, `REV-4054` working with @Mark Benitez to polish gallery tile script
+BLOCKER: None.
+
+ID: 6
+DATE: 2019-12-05 00:00:00
+DESCRIPTION: putting sql scripts for gallery tiles on github, getting them into the wiki - helping where I can to finish localized PO
+BLOCKER: None.
+
+ID: 7
+DATE: 2019-12-04 00:00:00
+DESCRIPTION: `REV-4028` localization personalized onboarding visual tweaks | last goal item logic
+BLOCKER: None.
+
+ID: 8
+DATE: 2019-12-03 00:00:00
+DESCRIPTION: Adding logic for last goal item image to change
+BLOCKER: None.
+
+ID: 9
+DATE: 2019-12-02 00:00:00
+DESCRIPTION: Writing build time email for Nipun - pulling in the UI for PO localization
+BLOCKER: None.
+
+ID: 10
+DATE: 2019-11-27 00:00:00
+DESCRIPTION: Moving un-obfuscated ids back to json - letting python to do a search replace on them.
+BLOCKER: None.
+
+ID: 11
+DATE: 2019-11-26 00:00:00
+DESCRIPTION: Working on decoding the ids for gallery tiles
+BLOCKER: None.
+
+ID: 12
+DATE: 2019-11-25 00:00:00
+DESCRIPTION: Change of pace, (because of a couple red flags) will be changing to python script to generate SQL querys
+BLOCKER: None.
+
+ID: 13
+DATE: 2019-11-22 00:00:00
+DESCRIPTION: Figuring out how to parse the request calls made to pord. Then figuring out to un-obsfucate (spelling?) the id's.
+BLOCKER: None.
+
+ID: 14
+DATE: 2019-11-21 00:00:00
+DESCRIPTION: More opscon tool creation; figuring out how to pull information from prod.
+BLOCKER: None.
+
+ID: 15
+DATE: 2019-11-20 00:00:00
+DESCRIPTION: creating opscon tool for populating gallery tiles with tiles from prod.
+BLOCKER: None.
+
+ID: 16
+DATE: 2019-11-19 00:00:00
+DESCRIPTION: Trying to get ahold of Brett to talk about galleryTiles in develop, QA'ing localization changes, pulling in new stuff, hotfixing ui for release/89-iron
+BLOCKER: None.
+
+ID: 17
+DATE: 2019-11-18 00:00:00
+DESCRIPTION: Trying to figure out a good way to test to make sure the gallery tile map is working correctly.
+BLOCKER: None.
+
+ID: 18
+DATE: 2019-11-15 00:00:00
+DESCRIPTION: Finishing up on PO (waiting for opscon prod access for tile id's) `REV-4050`
+BLOCKER: None.
+
+ID: 19
+DATE: 2019-11-14 00:00:00
+DESCRIPTION: Working on PO localization `REV-4050`
+BLOCKER: Waiting for prod opscon access.
+
+ID: 20
+DATE: 2019-11-13 00:00:00
+DESCRIPTION: MVP changes for Onboarding given the extra time `REV-4041`, `REV-4040`, `REV-4042`
+BLOCKER: None.
+
+ID: 21
+DATE: 2019-11-12 00:00:00
+DESCRIPTION: Switching to Ubuntu
+BLOCKER: None.
+
+ID: 22
+DATE: 2019-11-11 00:00:00
+DESCRIPTION: Adding localization logic to PO
+BLOCKER: None.
+
+ID: 23
+DATE: 2019-11-08 00:00:00
+DESCRIPTION: Merging into develop and getting ready for next sprint
+BLOCKER: None.
+
+ID: 24
+DATE: 2019-11-07 00:00:00
+DESCRIPTION: Helping out PO where I can, MR's and getting items across the line 
+BLOCKER: None.
+
+ID: 25
+DATE: 2019-11-06 00:00:00
+DESCRIPTION: Hot Fixes for ui from Janel and Andrea - Reviewed MR's
+BLOCKER: None.
+
+ID: 26
+DATE: 2019-11-05 00:00:00
+DESCRIPTION:  changing requested changes from janel / pushing MR through / answering MR questions
+BLOCKER: None.
+
+ID: 27
+DATE: 2019-11-04 00:00:00
+DESCRIPTION:  More ui fixes, hopefully get it in a MR today
+BLOCKER: None.
+
+ID: 28
+DATE: 2019-11-01 00:00:00
+DESCRIPTION:  More ui fixes, hopefully get it in a MR today
+BLOCKER: None.
+
+ID: 29
+DATE: 2019-10-31 00:00:00
+DESCRIPTION: merged branch to feature. worked on UI fixes REV-4015
+BLOCKER: None.
+
+ID: 30
+DATE: 2019-10-30 00:00:00
+DESCRIPTION: finding people for my MR still (one more) && REV-4011 REV-4015
+BLOCKER: None.
+
+ID: 31
+DATE: 2019-10-29 00:00:00
+DESCRIPTION:  finding people for my MR still (one more) && REV-4011 REV-4015
+BLOCKER: None.
+
+ID: 32
+DATE: 2019-10-28 00:00:00
+DESCRIPTION: created MR for REV-4001 REV-4007 REV-3984 REV-3978 getting people to approve MR, picking up more tasks on the board -not sure what yet though
+BLOCKER: None.
+
+ID: 33
+DATE: 2019-10-25 00:00:00
+DESCRIPTION: created MR for REV-4001 REV-4007 REV-3984 REV-3978
+BLOCKER: None.
+
+ID: 34
+DATE: 2019-10-24 00:00:00
+DESCRIPTION: merging into try template branch and pushing to feature.
+BLOCKER: None.
+
+ID: 35
+DATE: 2019-10-23 00:00:00
+DESCRIPTION: Merging changes for QA on 'REV-3978` and REV-3978 Then looking into Try Template Logic REV-3978
+BLOCKER: None.
+
+ID: 36
+DATE: 2019-10-22 00:00:00
+DESCRIPTION: Explore More Templates link misaligned in Edge/FF/Safari REV-3978
+BLOCKER: None.
+
+ID: 37
+DATE: 2019-10-21 00:00:00
+DESCRIPTION: creating video link component for preview template page REV-3963
+BLOCKER: None.
+
+ID: 38
+DATE: 2019-10-18 00:00:00
+DESCRIPTION: creating video link component for preview template page REV-3963
+BLOCKER: None.
+
+ID: 39
+DATE: 2019-10-17 00:00:00
+DESCRIPTION:  trying to figure out how we will be implement gallery search logic REV-3964
+BLOCKER: None.
+
+ID: 40
+DATE: 2019-10-16 00:00:00
+DESCRIPTION: pushed my merge request through REV-3962 REV-3968 REV-3890
+BLOCKER: None.
+
+ID: 41
+DATE: 2019-10-15 00:00:00
+DESCRIPTION: created merge request to new feature branch. changes include REV-3962 REV-3968 REV-3890
+BLOCKER: None.
+

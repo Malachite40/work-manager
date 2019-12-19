@@ -8,7 +8,7 @@ class Standup():
     def generate_standup_status(self, yesterday: StandupEvent, today: StandupEvent):
 
         string: str = (
-            "*{}* ".format(today._date) + "\n" +
+            "*{}* ".format(today._date.strftime("%b %d %Y")) + "\n" +
             "*Yesterday*: {}".format(yesterday._description) + "\n" +
             "*Today*: {}".format(today._description) + "\n" +
             "*Blockers*: {}".format(today._blocker)+  "\n"

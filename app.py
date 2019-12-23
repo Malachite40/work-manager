@@ -75,6 +75,7 @@ def save_to_file():
         for s in db.get_standups(count=-1):
             out_file.write(s.string())
             out_file.write("\n")
+        gui.set_message("Saved to file.")
 
 def read_from_file():
     with open(read_file, "r+") as in_file:
@@ -116,6 +117,7 @@ def read_from_file():
             
             count = count + 1
 
+        gui.set_message("Read from file.")
 
 
 while (True):
